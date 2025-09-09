@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Boost Agency - SEO & Marketing Services</title>
+  <meta name="description" content="Digital Boost Agency helps businesses grow online with SEO, Social Media, PPC, and Content Marketing services.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Digital Boost Agency</h1>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Grow Your Business with SEO & Digital Marketing</h2>
+    <p>We help brands increase visibility, drive traffic, and boost sales online.</p>
+    <a href="services.html" class="btn">Explore Services</a>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h3>SEO Optimization</h3>
+      <p>Rank higher on Google with our expert SEO strategies.</p>
+    </div>
+    <div class="feature">
+      <h3>Social Media Marketing</h3>
+      <p>Engage your audience on Facebook, Instagram & LinkedIn.</p>
+    </div>
+    <div class="feature">
+      <h3>PPC Campaigns</h3>
+      <p>Maximize ROI with targeted paid advertising campaigns.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Digital Boost Agency | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
